@@ -2,7 +2,7 @@
 Docker multi stage build 를 통하여 "https://github.com/wilicc/gpu-burn"와 go 코드를 docker build한 후 golang 코드에서 gpu_burn을 실행하도록 합니다.
 
 ## 오픈소스
-This project uses code from [gpu-burn](https://github.com/wilicc/gpu-burn) which is licensed under the BSD-2-Clause license.
+This project uses code from [gpu-burn](https://github.com/wilicc/gpu-burn) which is licensed under the BSD-2-Clause license. (Copyright (c) 2020, Ville Timonen)
 
 ## Requirements
 1. **Docker >= 20.0.0 (recommend)**
